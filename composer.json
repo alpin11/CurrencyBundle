@@ -20,7 +20,7 @@
   "require": {
     "php": "^7.2",
     "coreshop/currency": "^2.0",
-    "coreshop/resource-bundle": "^2.0",
+    "coreshop/resource-bundle": "dev-master",
     "pimcore/pimcore": "^6.6.0"
   },
   "config": {
